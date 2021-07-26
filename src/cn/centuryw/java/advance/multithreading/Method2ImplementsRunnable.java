@@ -3,6 +3,7 @@ package cn.centuryw.java.advance.multithreading;
 
 /**
  * 创建多线程，方法二：实现Runnable接口
+ * 说明：创建类实现Runnable接口 --> 将实现类放入Thread类创建对象 --> 调用创建的Thread对象
  */
 public class Method2ImplementsRunnable implements Runnable {
     public final int sleepTime;

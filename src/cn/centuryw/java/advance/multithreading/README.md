@@ -16,5 +16,9 @@
 
 3. **实现Callable接口**
 
+   说明：创建类实现Callable接口 --> 创建对象 --> 创建执行服务 --> 将对象放入服务提交执行 --> 获取执行结果 --> 关闭执行服务
+
+   示例代码见 Method3ImplementsCallable.java
+
 
 

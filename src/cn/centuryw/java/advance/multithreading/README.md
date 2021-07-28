@@ -36,3 +36,10 @@
 2. 代理角色
 
 示例代码见 StaticProxy.java
+
+
+
+## 线程状态
+
+![](https://github.com/wang-century/JavaCodes/blob/main/imgs/multithreadingThreadStatus.png)
+

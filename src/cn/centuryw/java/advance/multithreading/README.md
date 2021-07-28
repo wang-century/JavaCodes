@@ -41,5 +41,7 @@
 
 ## 线程状态
 
-![](https://github.com/wang-century/JavaCodes/blob/main/imgs/multithreadingThreadStatus.png)
+![](https://github.com/wang-century/JavaCodes/blob/main/imgs/multithreading/01.png)
+
+![](https://github.com/wang-century/JavaCodes/blob/main/imgs/multithreading/02.png)
 

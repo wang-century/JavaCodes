@@ -45,7 +45,7 @@
 
 ![](https://github.com/wang-century/JavaCodes/blob/main/imgs/multithreading/02.png)
 
-
+查看线程状态示例ThreadStatus.java
 
 ## 终止线程
 

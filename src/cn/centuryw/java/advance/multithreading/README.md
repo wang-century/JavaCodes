@@ -63,4 +63,10 @@
 
   sleep模拟倒计时示例代码见CountDown.java
 
-- 
+- yield()      礼让线程，让当前正在执行的线程暂停，不是阻塞线程，而是将线程从运行状态转入就绪状态，让CPU重新调度
+
+  yield模拟礼让示例代码见YieldDemo.java
+
+- join()        合并线程，等此线程执行完毕后再执行其他线程，其他线程阻塞
+
+  线程插队模拟代码示例JoinDemo.java

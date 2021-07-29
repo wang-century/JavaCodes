@@ -45,3 +45,22 @@
 
 ![](https://github.com/wang-century/JavaCodes/blob/main/imgs/multithreading/02.png)
 
+
+
+## 终止线程
+
+1. 线程正常执行完毕
+
+2. 外部干涉-->加入标识位来控制线程关闭
+
+   示例代码见TerminateThread.java
+
+
+
+## 线程方法
+
+- sleep() 	使线程停止运行一段时间，将处于阻塞状态
+
+  sleep模拟倒计时示例代码见CountDown.java
+
+- 
